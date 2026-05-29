@@ -123,12 +123,6 @@ links:
 # Social media buttons
 # -----------------------------------------------------------------------------
 socials:
-#  - social:
-      icon: "fa-brands fa-medium"
-      url: "https://blog.zhgchg.li"
-      title: "ZhgChgLi's Medium"
-      alt: "ZhgChgLi's Medium"
-      target: "_blank"
   - social:
       icon: "fa-brands fa-github"
       url: "https://github.com/korvi-links/korvi-links.github.io"
