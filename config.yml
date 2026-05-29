@@ -99,10 +99,24 @@ tagline: >-
 links:
   - link:
       icon: "fa-solid fa-rss"
-      text: "Tech Blog <span class='link-button-text'>(120+ Posts)</span>"
-      url: "https://zhgchg.li"
-      alt: "ZhgChgLi Tech & Travel Blog"
-      title: "ZhgChgLi Tech & Travel Blog"
+      text: "ClickUp"
+      url: "https://app.clickup.com/90121783519/v/l/li/901218422617"
+      alt: "Clickup"
+      title: "Clickup"
+      target: "_blank"
+  - link:
+      icon: "fa-solid fa-note-sticky"
+      text: "Miro"
+      url: "https://miro.com/app/board/uXjVHO88omE=/"
+      alt: "Miro"
+      title: "Miro"
+      target: "_blank"
+  - link:
+      icon: "fa-solid fa-table"
+      text: "Google Sheet"
+      url: "https://docs.google.com/spreadsheets/d/1zOYhQHzOnVB4v-gv3BILEx6Embznf8WS6pRECbT_iFE/edit?usp=sharing"
+      alt: "Google Sheet"
+      title: "Google Sheet"
       target: "_blank"
 
 # -----------------------------------------------------------------------------
