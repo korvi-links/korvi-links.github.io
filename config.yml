@@ -98,7 +98,7 @@ tagline: >-
 # -----------------------------------------------------------------------------
 links:
   - link:
-      icon: "fa-solid fa-rss"
+      icon: "fa-solid fa-business-time"
       text: "ClickUp"
       url: "https://app.clickup.com/90121783519/v/l/li/901218422617"
       alt: "Clickup"
